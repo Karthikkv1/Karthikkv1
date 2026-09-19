@@ -54,7 +54,7 @@
 </a>
 </p>
 
-**LinkedIn:** [Karthik K V](https://www.linkedin.com/in/karthik-k-v-sullia/)
+
 
 
 
