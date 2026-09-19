@@ -16,7 +16,7 @@
 
 ### 💻 Programming & Development
 
-| Technology                                                           | Technology                                                                       | Technology                                                                    |
+                                                                                                                                                                                         |
 | -------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | <img src="https://skillicons.dev/icons?i=java" width="40"/> **Java** | <img src="https://skillicons.dev/icons?i=javascript" width="40"/> **JavaScript** | <img src="https://skillicons.dev/icons?i=html" width="40"/> **HTML**          |
 | <img src="https://skillicons.dev/icons?i=css" width="40"/> **CSS**   | <img src="https://skillicons.dev/icons?i=react" width="40"/> **React.js**        | <img src="https://skillicons.dev/icons?i=spring" width="40"/> **Spring Boot** |
