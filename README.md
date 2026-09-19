@@ -31,7 +31,7 @@
 &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=spring" width="40"/> <b>Spring Boot</b>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vite" width="40"/> <b>Vite</b>
+
 </p>
 
 ### 🗄️ Database & APIs
@@ -45,8 +45,7 @@
 ### 🧪 Testing
 
 <p>
-<img src="https://skillicons.dev/icons?i=selenium" width="40"/> <b>Selenium</b>
-&nbsp;&nbsp;
+
 <img src="https://skillicons.dev/icons?i=junit" width="40"/> <b>JUnit</b>
 &nbsp;&nbsp;
 🎭 <b>Playwright</b>
