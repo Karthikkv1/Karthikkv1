@@ -28,7 +28,7 @@
 <img src="https://skillicons.dev/icons?i=java" width="40"/> <b>Java</b>
 &nbsp;&nbsp;
    <img src="https://skillicons.dev/icons?i=spring" width="40"/> <b>Spring Boot</b>
-   &nbsp;&nbsp;
+
 
 
 
