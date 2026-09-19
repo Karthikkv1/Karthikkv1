@@ -27,18 +27,20 @@
 <p>
 <img src="https://skillicons.dev/icons?i=java" width="40"/> <b>Java</b>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=javascript" width="40"/> <b>JavaScript</b>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=html" width="40"/> <b>HTML</b>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" width="40"/> <b>CSS</b>
+   <img src="https://skillicons.dev/icons?i=spring" width="40"/> <b>Spring Boot</b>
+   &nbsp;&nbsp;
+
+
+
 </p>
 
 <p>
+   <img src="https://skillicons.dev/icons?i=javascript" width="40"/> <b>JavaScript</b>
+   &nbsp;&nbsp;
+
+
 <img src="https://skillicons.dev/icons?i=react" width="40"/> <b>React.js</b>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=spring" width="40"/> <b>Spring Boot</b>
-&nbsp;&nbsp;
+
 
 </p>
 
