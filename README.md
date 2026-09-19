@@ -1,5 +1,13 @@
 # 👋 Hi, I'm Karthik K V
 
+## 🔗 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/karthik-k-v-sullia/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+</a>
+</p>
+
 ## 🧑‍💻 About Me
 
 🎓 Computer Science Engineering Graduate passionate about **Software Development, Testing, and Cybersecurity**.
@@ -83,13 +91,7 @@
 
 ---
 
-## 🔗 Connect With Me
 
-<p>
-<a href="https://www.linkedin.com/in/karthik-k-v-sullia/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50" />
-</a>
-</p>
 
 
 
