@@ -16,32 +16,62 @@
 
 ### 💻 Programming & Development
 
-                                                                                                                                                                                         |
-| -------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| <img src="https://skillicons.dev/icons?i=java" width="40"/> **Java** | <img src="https://skillicons.dev/icons?i=javascript" width="40"/> **JavaScript** | <img src="https://skillicons.dev/icons?i=html" width="40"/> **HTML**          |
-| <img src="https://skillicons.dev/icons?i=css" width="40"/> **CSS**   | <img src="https://skillicons.dev/icons?i=react" width="40"/> **React.js**        | <img src="https://skillicons.dev/icons?i=spring" width="40"/> **Spring Boot** |
-| <img src="https://skillicons.dev/icons?i=vite" width="40"/> **Vite** |                                                                                  |                                                                               |
+<p>
+<img src="https://skillicons.dev/icons?i=java" width="40"/> <b>Java</b>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=javascript" width="40"/> <b>JavaScript</b>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html" width="40"/> <b>HTML</b>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="40"/> <b>CSS</b>
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=react" width="40"/> <b>React.js</b>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=spring" width="40"/> <b>Spring Boot</b>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vite" width="40"/> <b>Vite</b>
+</p>
 
 ### 🗄️ Database & APIs
 
-| Technology                                                             | Technology                                                                 |
-| ---------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| <img src="https://skillicons.dev/icons?i=mysql" width="40"/> **MySQL** | <img src="https://skillicons.dev/icons?i=postman" width="40"/> **Postman** |
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" width="40"/> <b>MySQL</b>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" width="40"/> <b>Postman</b>
+</p>
 
 ### 🧪 Testing
 
-| Technology                                                                   | Technology                                                             | Technology               |
-| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------ |
-| <img src="https://skillicons.dev/icons?i=selenium" width="40"/> **Selenium** | <img src="https://skillicons.dev/icons?i=junit" width="40"/> **JUnit** | 🎭 **Playwright**        |
-| 🧪 **Manual Testing**                                                        | 🔌 **API Testing**                                                     | ✅ **Functional Testing** |
-| 🔄 **Integration Testing**                                                   | 🔁 **Regression Testing**                                              | 🖥️ **System Testing**   |
+<p>
+<img src="https://skillicons.dev/icons?i=selenium" width="40"/> <b>Selenium</b>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=junit" width="40"/> <b>JUnit</b>
+&nbsp;&nbsp;
+🎭 <b>Playwright</b>
+</p>
+
+**Manual Testing • API Testing • Functional Testing • Integration Testing • Regression Testing • System Testing**
 
 ### ⚙️ Tools & Platforms
 
-| Technology                                                             | Technology                                                                | Technology                                                                 |
-| ---------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| <img src="https://skillicons.dev/icons?i=git" width="40"/> **Git**     | <img src="https://skillicons.dev/icons?i=github" width="40"/> **GitHub**  | <img src="https://skillicons.dev/icons?i=docker" width="40"/> **Docker**   |
-| <img src="https://skillicons.dev/icons?i=linux" width="40"/> **Linux** | <img src="https://skillicons.dev/icons?i=vscode" width="40"/> **VS Code** | <img src="https://skillicons.dev/icons?i=eclipse" width="40"/> **Eclipse** |
+<p>
+<img src="https://skillicons.dev/icons?i=git" width="40"/> <b>Git</b>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="40"/> <b>GitHub</b>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" width="40"/> <b>Docker</b>
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux" width="40"/> <b>Linux</b>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="40"/> <b>VS Code</b>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=eclipse" width="40"/> <b>Eclipse</b>
+</p>
+
 
 
 ### 🔐 Cybersecurity
