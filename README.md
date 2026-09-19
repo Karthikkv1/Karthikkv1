@@ -70,6 +70,8 @@
 &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=vscode" width="40"/> <b>VS Code</b>
 &nbsp;&nbsp;
+   <img src="https://img.icons8.com/color/48/spring-logo.png" width="40"/> <b>Spring Tool Suite (STS)</b>
+&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=eclipse" width="40"/> <b>Eclipse</b>
 </p>
 
