@@ -27,21 +27,13 @@
 <p>
 <img src="https://skillicons.dev/icons?i=java" width="40"/> <b>Java</b>
 &nbsp;&nbsp;
-   <img src="https://skillicons.dev/icons?i=spring" width="40"/> <b>Spring Boot</b>
-
-
-
-
+<img src="https://skillicons.dev/icons?i=spring" width="40"/> <b>Spring Boot</b>
 </p>
 
 <p>
-   <img src="https://skillicons.dev/icons?i=javascript" width="40"/> <b>JavaScript</b>
-   &nbsp;&nbsp;
-
-
+<img src="https://skillicons.dev/icons?i=javascript" width="40"/> <b>JavaScript</b>
+&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=react" width="40"/> <b>React.js</b>
-
-
 </p>
 
 ### 🗄️ Database & APIs
