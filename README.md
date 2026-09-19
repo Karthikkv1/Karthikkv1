@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-🎓 Computer Science Engineer passionate about **Software Development, Testing, and Cybersecurity**.
+🎓 Computer Science Engineer with a passion for **software development, software testing, and cybersecurity**.
 
 💻 I have hands-on experience with **Java, Spring Boot, React.js, JavaScript, SQL, REST APIs, and Software Testing**.
 
