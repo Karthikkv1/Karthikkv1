@@ -39,7 +39,7 @@
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" width="40"/> <b>MySQL</b>
 &nbsp;&nbsp;
- 🗃️ <b>SQL</b> </p>
+<img src="https://skillicons.dev/icons?i=mysql" width="40"/> <b>SQL</b> </p>
    &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=postman" width="40"/> <b>Postman</b>
 </p>
