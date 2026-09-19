@@ -42,14 +42,13 @@
 <img src="https://skillicons.dev/icons?i=mysql" width="40"/> <b>MySQL</b>
 &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=mysql" width="40"/> <b>SQL</b> </p>
-   &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postman" width="40"/> <b>Postman</b>
 </p>
 
 ### 🧪 Testing
 
 <p>
-
+<img src="https://skillicons.dev/icons?i=postman" width="40"/> <b>Postman</b>
+&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=junit" width="40"/> <b>JUnit</b>
 &nbsp;&nbsp;
 🎭 <b>Playwright</b>
